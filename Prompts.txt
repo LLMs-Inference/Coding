@@ -1,0 +1,45 @@
+
+创建图像 Create a high-resolution scientific infographic summarizing a hierarchical medical VQA dataset called "TumorVQA". Use a clean, modern layout with the following four primary sections:
+
+1. In the **upper left corner**, the data sources are displayed:
+    - CT scan images (with 3D volume rendering);
+    - Organ and tumor segmentation masks;
+    - Structured clinical reports (with highlighted fields);
+    - Automatic question generation pipeline (with arrows showing flow from images to questions). Label this section: "Data Construction".
+
+2. In the **upper right corner**, display a vertical 4 layers task structure:
+    - Layer 1: Recognition (e.g., "Lesion exists?");
+    - Layer 2: Measurement (e.g., "What is the HU value of the liver?");
+    - Layer 3: Visual Reasoning (e.g., “Which segment has the most lesions?");
+    - Layer 4: Medical Reasoning (e.g., “ls the lesion resectable?").
+    Use colored blocks to distinguish layers (blue, green, orange, red), with short arrows flowing downward to show increasing difficulty. Add a label: "Task Hierarchy".
+
+3. In the **lower right corner**, include astacked bar chart showing:
+    - X-axis: 4 task categories;
+    - Y-axis: Number of samples;
+    - Stack colors: Low/Medium/High complexity.
+    Add a legend for complexity levels. Label this section: "Complexity Distribution".
+
+4. In the **lower left corner**, highlight the benchmark's purpose with a few icons:
+    - 🧠 for reasoning;
+    - 🔍 for perception;
+    - 📊 for numerical analysis;
+    - 👩‍⚕️ for clinical inference.
+    Add a caption: "Goal: Model capability diagnosis across layered medical reasoning."
+
+Use a clean, scientific color palette (white background, pastel tones), thin black outlines, and modern sans-serif fonts. Include concise annotations and clean arrows to explain data flow. Use isometric or flat 2D diagram style, similar to CLEVR or SuperCLEVR diagrams.
+
+
+创建图像 1. 在保留原有画面细节的前提下，仅通过添加滤镜来增强图像效果。2. 调整整体视觉风格，使其呈现出类似《猫眼三姐妹》动画的独特氛围。
+
+
+请将所提供的图片转化为具有吉卜力风格特色的全新图像。
+
+
+请为为西红柿炒鸡蛋创建一个分步食谱信息图。具体要求如下：
+1 - 采用俯视视角。
+2 - 在白色背景上呈现，极简风格，引人入胜。
+3 - 提供带有清晰标注的食材图片，包括但不限于以下内容：“2个西红柿”，“3个鸡蛋”，“1瓣蒜”（如果使用的话），“1根葱”，“1汤匙食用油”，以及适量的“盐”和“少许糖”（根据个人口味选择是否添加）。
+4 - 使用虚线依次连接表示制作步骤的图标，如“打蛋碗”图标、“炒锅”图标以及“混合/翻炒”图标等。
+5 - 在信息图的底部，展示一盘精心装盘的西红柿炒鸡蛋成品的照片。
+

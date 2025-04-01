@@ -1,5 +1,5 @@
 
-创建图像 Create a high-resolution scientific infographic summarizing a hierarchical medical VQA dataset called "TumorVQA". Use a clean, modern layout with the following four primary sections:
+Create a high-resolution scientific infographic summarizing a hierarchical medical VQA dataset called "TumorVQA". Use a clean, modern layout with the following four primary sections:
 
 1. In the **upper left corner**, the data sources are displayed:
     - CT scan images (with 3D volume rendering);
@@ -30,7 +30,7 @@
 Use a clean, scientific color palette (white background, pastel tones), thin black outlines, and modern sans-serif fonts. Include concise annotations and clean arrows to explain data flow. Use isometric or flat 2D diagram style, similar to CLEVR or SuperCLEVR diagrams.
 
 
-创建图像 1. 在保留原有画面细节的前提下，仅通过添加滤镜来增强图像效果。2. 调整整体视觉风格，使其呈现出类似《猫眼三姐妹》动画的独特氛围。
+1. 在保留原有画面细节的前提下，仅通过添加滤镜来增强图像效果。2. 调整整体视觉风格，使其呈现出类似《猫眼三姐妹》动画的独特氛围。
 
 
 请将所提供的图片转化为具有吉卜力风格特色的全新图像。

@@ -86,7 +86,6 @@
 ---
 
 ### 四、系统生物学整合模型
-![Fenton-Metabolism Network](https://via.placeholder.com/400x200/FFFFFF/000000?text=Network+Diagram)
 
 **关键节点**：
 

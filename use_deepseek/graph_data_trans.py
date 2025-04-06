@@ -112,6 +112,7 @@ F,E,0.5
 
     edges_prob, nodes_prob = read_and_process_edges("test_prob.csv")
     print({f"{idx}": {node} for idx, node in enumerate(nodes_prob)})
+    print(edges_prob)
 
     expected_edges = {("A", "B"), ("C", "D"), ("E", "F"), ("F", "E")}
     assert set(edges_prob) == expected_edges
